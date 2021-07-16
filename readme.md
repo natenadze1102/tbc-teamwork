@@ -16,4 +16,8 @@
 10) 1)git push -u origin main
     2) git push
 
+11) git clone https://github.com/natenadze1102/tbc-teamwork.git
+
+12) git pull
+
 
