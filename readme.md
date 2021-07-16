@@ -1,8 +1,8 @@
 # Git Commands
 
-1) git init
-2) git status
-3) git add .
+1) git init - რეპოზიტორიის ინიციალიზაცია
+2) git status - სტატუსის შემოწმება
+3) git add . - "ცვლილებებზე თვალის დევნა"
 4) 1. git branch
    2. git branch -D
 5) 1.git checkout ""
