@@ -13,6 +13,7 @@
 8) 1)git config --global user.name ""
    2)git config --gloval user.email ""
 9) git remote add origin https://github.com/natenadze1102/tbc-teamwork.git
-10) git push -u origin main
+10) 1)git push -u origin main
+    2) git push
 
 
