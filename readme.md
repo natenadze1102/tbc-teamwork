@@ -3,11 +3,12 @@
 1) git init - რეპოზიტორიის ინიციალიზაცია
 2) git status - სტატუსის შემოწმება
 3) git add . - "ცვლილებებზე თვალის დევნა"
-4) 1. git branch
-   2. git branch -D
-5) 1.git checkout ""
-   2.git checkout -b ""
-6) git commit -m ""
+4)    git branch
+      git branch -D
+5)    git checkout ""
+      git checkout -b ""
+6)    git commit -m ""
+      git reset --hard HEAD   go back to last commit
 7) git merge ""
 
 8) 1)git config --global user.name ""
