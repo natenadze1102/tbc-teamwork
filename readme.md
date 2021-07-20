@@ -16,7 +16,7 @@
       git reset 179e26e5e10b00c31072450a3730deff701109d2 -reset specific commit
 7) git merge ""
 ...
-8) 
+8) git log --oneline
 9) git remote add origin https://github.com/natenadze1102/tbc-teamwork.git
 10) 1)git push -u origin main
     2) git push
