@@ -12,7 +12,8 @@
 5)    git checkout ""
       git checkout -b ""
 6)    git commit -m ""
-      git reset --hard HEAD   go back to last commit
+      git reset --hard HEAD   -go back to last commit
+      git reset 179e26e5e10b00c31072450a3730deff701109d2 -reset specific commit
 7) git merge ""
 ...
 8) 
