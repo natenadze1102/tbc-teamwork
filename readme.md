@@ -5,7 +5,7 @@
 
 1.    **git clone** [*repository*] - *clone repository*
 2.    **git init** - *initialize repository*
-3.    **git remote add origin** [*repository*]
+3.    **git remote add origin** [*repository*] - *bind local repository with remote*
 
 4.  - **git config --global** **user.name** ""
     - **git config --global** **user.email** ""
