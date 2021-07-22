@@ -1,4 +1,4 @@
-# ***Git Commands / GitHub ***
+# ***Git Commands / GitHub***
 ## ✔ ***[***Markdown extended syntax](https://www.markdownguide.org/extended-syntax/) is Used💥***
 
 ***
