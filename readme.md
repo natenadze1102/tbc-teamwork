@@ -1,7 +1,8 @@
 > # ***Git Commands / GitHub***
 ![git image](/assets/images/git-img.jpg 'Git/GitHub')
 
----
+***
+
 1.    **git clone** [*repository*] - *clone repository*
 2.    **git init** - *initialize repository*
 3.    **git remote add origin** [*repository*]
@@ -30,4 +31,4 @@
 16.   **git pull** - *synchronize with remote repository*
 17.   **git fetch**  - *only check if there are any changes on remote repository*
 
-
+***
